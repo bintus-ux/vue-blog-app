@@ -1,4 +1,3 @@
-<!-- src/components/layout/AppHeader.vue -->
 <template>
   <header class="app-header">
     <div class="container">
